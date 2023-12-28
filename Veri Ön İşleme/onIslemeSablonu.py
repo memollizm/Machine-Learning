@@ -1,14 +1,12 @@
-#1.kutuphaneler
+#Kütüphaneler
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-#2.veri onisleme
-#2.1.veri yukleme
+
+#Veri Yükleme
 veriler = pd.read_csv('satislar.csv')
-#test
-print(veriler)
-#veri on isleme
+
 
 aylar = veriler[['Aylar']]
 print(aylar)
@@ -18,6 +16,7 @@ print(satislar)
 
 satislar2 = veriler.iloc[:,:1].values
 #print(satislar2)
+
 
 #verilerin egitim ve test icin bolunmesi
 from sklearn.model_selection import train_test_split
@@ -47,6 +46,3 @@ x_train = x_train.sort_index()
 y_train = y_train.sort_index()
 plt.plot(x_train, y_train)
 plt.plot(x_test, lr.predict(x_test))
-
-
-
