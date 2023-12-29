@@ -7,4 +7,4 @@
 
 
 
-[iris]: art/art/Iris-ve-Algoritmalar.png
+[iris]: art/Iris ve Algoritmalar.png
