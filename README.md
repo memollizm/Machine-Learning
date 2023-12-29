@@ -3,8 +3,15 @@
 <div align="center">
 
 ![Iris][iris]
+<br>
+<br>
+
+# <p align="center">Kümeleme Algoritmaları</p>
+
+<div align="center">
+
+![Kümeleme][kumeleme]
 
 
-
-
-[iris]: art/Iris-ve-Algoritmalar.png
+[iris]: art/prediction.png
+[kumeleme]: art/kumeleme.png
