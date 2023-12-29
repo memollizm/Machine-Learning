@@ -7,4 +7,4 @@
 
 
 
-[iris]: art/art/IrisveAlgoritmalar.png
+[iris]: art/art/Iris-ve-Algoritmalar.png
