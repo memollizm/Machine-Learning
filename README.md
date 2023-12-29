@@ -7,4 +7,4 @@
 
 
 
-[iris]: art/Iris-ve-Algoritmalar.png
+[iris]: art/prediction.png
