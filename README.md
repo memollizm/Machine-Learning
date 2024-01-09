@@ -6,7 +6,7 @@
 <br>
 <br>
 
-# <p align="center">Kümeleme Algoritmalar</p>
+# <p align="center">Kümeleme Algoritmaları</p>
 
 <div align="center">
 
